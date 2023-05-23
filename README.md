@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Patel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ASP.Net Core MVC
-- 💞️ I’m looking to collaborate on ASP.Net Core Projects 
+- 👀 I’m Software Engineer associated with Power Trading
+- 🌱 I’m currently looking for new opportunities
+- 💞️ I’m looking to collaborate on .Net Core Projects 
 - 📫 How to reach me adityapatel9619@gmail.com
 
 <!---
